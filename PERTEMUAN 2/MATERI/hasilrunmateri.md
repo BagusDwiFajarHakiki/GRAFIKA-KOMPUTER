@@ -28,3 +28,36 @@
        print(f"Persegi dengan sisi {sisi} berwarna {warna}")
 
    <img width="610" height="260" alt="image" src="https://github.com/user-attachments/assets/c1121e98-aa26-4dbb-8cd9-bb479551f186" />
+
+5. KONDISI
+
+   print("program kondisi")
+
+         x = 50
+         if x > 0:
+             print("Titik berada di sisi kanan sumbu Y")
+         else:
+             print("Titik berada di sisi kiri sumbu X")
+
+   <img width="547" height="308" alt="image" src="https://github.com/user-attachments/assets/57f9973a-4d10-41d7-936a-4ba449434f2e" />
+
+6. LOOP
+
+         print("program loop\n")
+         
+         for i in range(1, 5):
+             print("Titik ke-", i)
+
+   <img width="337" height="301" alt="image" src="https://github.com/user-attachments/assets/4d2b858f-6f56-46ae-9999-75f10cf07ba3" />
+
+7. VARIABEL
+
+         x = 100
+         y = 50
+         
+         warna = "red"
+         
+         print ("POSISI TITIK : ",x,y)
+         print ("WARNA : ",warna)
+
+   <img width="368" height="294" alt="image" src="https://github.com/user-attachments/assets/ff646a54-33e7-4c7e-8b39-9d87c55ab7ac" />
