@@ -130,3 +130,7 @@
    <img width="1048" height="776" alt="image" src="https://github.com/user-attachments/assets/16629a87-11e9-4cac-babc-1cdb0d507d53" />
    <img width="1003" height="654" alt="image" src="https://github.com/user-attachments/assets/b049a35e-633d-43eb-981a-59e86ac9daea" />
    <img width="1019" height="377" alt="image" src="https://github.com/user-attachments/assets/f6cc3005-a5b4-41ec-8066-48caabf6ba79" />
+
+6. TABEL PERBANDINGAN
+
+   <img width="1065" height="463" alt="image" src="https://github.com/user-attachments/assets/6333dc67-ccee-41fe-bf81-a3eef3b45c3f" />
