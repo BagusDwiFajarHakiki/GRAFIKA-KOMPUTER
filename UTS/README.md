@@ -2,7 +2,7 @@ Simulasi Tata Surya Realistis 2D dengan Python Turtle
 
 a. Judul Proyek
 
-   Implementasi Transformasi Geometris dan Algoritma Grafika Primitif dalam Simulasi Tata Surya 2D
+   Implementasi Transformasi Geometris dan Algoritma Grafika dalam Simulasi Tata Surya 2D
    
 b. Konsep Grafika yang Digunakan
 
